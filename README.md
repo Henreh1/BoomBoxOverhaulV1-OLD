@@ -1,3 +1,3 @@
 # BoomboxOverhaulV1 Code!
-- I will be uploading the code to the original V1 of BoomboxOverhaul
+- This is the code for the V1 version of BoomboxOverhaul!
 - This code will be free to fork to make your own mods, credit will be very much appreciated! :D
