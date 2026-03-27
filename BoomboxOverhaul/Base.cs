@@ -41,8 +41,6 @@ namespace BoomboxOverhaul
 
         private void Awake()
         {
-            //IL_0007: Unknown result type (might be due to invalid IL or missing references)
-            //IL_0011: Expected O, but got Unknown
             _harmony = new Harmony("BoomBoxOverhaul");
             _harmony.PatchAll();
             ((Plugin)this).Logger.LogInfo((object)("BoomBox Upgraded!"));
